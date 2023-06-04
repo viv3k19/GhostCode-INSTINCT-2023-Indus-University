@@ -38,7 +38,7 @@
 * CSS
 * Firebase
 
-# Project Creator
+# Project Creators
 * Vivek Malam
 * Dhiraj Mepani
 
