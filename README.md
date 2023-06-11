@@ -39,8 +39,8 @@
 * Firebase
 
 # Project Creators
-* Vivek Malam[Designer & Data Analyst]
-* Dhiraj Mepani[Developement & Testing]
+* Vivek Malam [Designer & Data Analyst]
+* Dhiraj Mepani [Developement & Testing]
 
 ## Acknowledgments
 Special thanks to the Indus University Instinct 2023 event for providing the opportunity to develop GhostCode.
